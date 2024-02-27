@@ -3,6 +3,6 @@ link for demo:
 
 - Vercel: https://mini-project-portfolio.vercel.app/
 
-- GitHub: 
+- GitHub:  https://vathanaksol.github.io/Mini-Project-Portfolio/ 
 
 
