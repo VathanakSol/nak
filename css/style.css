@@ -1,7 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
-    
-
-
 * {
     margin: 0;
     padding: 0;
@@ -481,14 +478,21 @@ section > .about-img > img:hover {
     .contact form .input-box input{
         width: 100%;
     }
+    .about .about-img img{
+        width: 75vw;
+    }
+    .about .about-img img:hover{
+        scale: none;
+    }
 }
 @media (max-width: 365px){
     .home-img img{
         width: 90vw;
     }
-    .about-img img{
+    .about .about-img img{
         width: 90vw;
     }
+
     .footer{
         flex-direction: column-reverse;
     }
